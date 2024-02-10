@@ -27,4 +27,3 @@ bandit3@bandit:~$
 ## Notas adicionales
 * La opcion -a en el comando ls sirve para mostrar los archivos ocultos.
 ## Referencias
-https://www.geeksforgeeks.org/ls-command-in-linux/

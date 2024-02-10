@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosbandit/level4.md",
+                "file": "retosbandit/level10.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "1d8979be99ec5ba1",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosbandit/level4.md",
+                "file": "retosbandit/level10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosbandit/level4.md",
+                "file": "retosbandit/level10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosbandit/level4.md"
+                "file": "retosbandit/level10.md"
               }
             }
           }
@@ -172,9 +172,15 @@
   },
   "active": "1eeefe80d58fa3c6",
   "lastOpenFiles": [
+    "retosbandit/level9.md",
+    "retosbandit/level10.md",
+    "retosbandit/level7.md",
+    "retosbandit/level8.md",
+    "retosbandit/level6.md",
     "retosbandit/level3.md",
-    "retosbandit/level2.md",
     "retosbandit/level4.md",
+    "retosbandit/level5.md",
+    "retosbandit/level2.md",
     "retosbandit/level1.md",
     "retosbandit/level0.md",
     "retosbandit/plantilla.md",
