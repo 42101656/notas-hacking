@@ -23,12 +23,8 @@
             "id": "754cd72d4d5927c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retosbandit/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosbandit/level10-11.md",
+                "file": "retosbandit/level13-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosbandit/level10-11.md",
+                "file": "retosbandit/level13-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosbandit/level10-11.md",
+                "file": "retosbandit/level13-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosbandit/level10-11.md"
+                "file": "retosbandit/level13-14.md"
               }
             }
           }
@@ -172,8 +168,13 @@
   },
   "active": "1eeefe80d58fa3c6",
   "lastOpenFiles": [
-    "retosbandit/level9-10.md",
+    "retosbandit/level12-13.md",
+    "retosbandit/level11-12.md",
+    "retosbandit/level13-14.md",
+    "retosbandit/level14-15.md",
+    "retosbandit/level15-16.md",
     "retosbandit/level10-11.md",
+    "retosbandit/level9-10.md",
     "retosbandit/level8-9.md",
     "retosbandit/level7-8.md",
     "retosbandit/level6-7.md",
